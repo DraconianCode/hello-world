@@ -1,5 +1,5 @@
 # hello-world
-example
+message
 
 ⊑⟒⌰⌰⍜ ⊑⎍⋔⏃⋏⌇!
 
