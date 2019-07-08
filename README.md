@@ -1,5 +1,5 @@
 # hello-world
-message
+decipher this message:
 
 ⊑⟒⌰⌰⍜ ⊑⎍⋔⏃⋏⌇!
 
